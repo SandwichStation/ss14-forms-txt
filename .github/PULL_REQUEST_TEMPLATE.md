@@ -10,6 +10,6 @@
 
 ## Requirements
 <!-- Confirm the following by placing an X in the brackets [X]: -->
-- [ ] I have followed [the guidelines](https://github.com/Moomoobeef/ss14-forms-txt/wiki/Guidelines).
+- [ ] I have followed [the guidelines](https://github.com/SandwichStation/ss14-forms-txt/wiki/Guidelines).
 - [ ] I have included a screenshot, or this is a tiny edit.
 <!-- You should understand that not following the above may get your PR closed at maintainer’s discretion -->
