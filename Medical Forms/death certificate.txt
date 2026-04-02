@@ -1,0 +1,51 @@
+[color=#52bde9]╔════════╗ █▄ █ ▀█▀  [head=2]Medical Department[/head]
+║░░░██░░░║ █ ▀█     █      [bold]Death Certificate[/bold]
+║░██████░║ 
+║░░░██░░░║ 
+╚════════╝
+[bold]────────────────────────────────────────[/bold][/color]
+This document certifies the permanent death of an individual
+who can not, or will not, be revived.
+
+Coroner Name:         [color=#002AAF]Sample Name[/color]
+                             ‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾
+Deceased Name:      [color=#002AAF]Sample Name[/color]
+                             ‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾
+
+Deceased Species:
+([color=#002AAF]  [/color]) Human           ([color=#002AAF]  [/color]) Lizard                   ([color=#002AAF]  [/color]) Slime
+([color=#002AAF]  [/color]) Dwarf             ([color=#002AAF]  [/color]) Arachnid              ([color=#002AAF]  [/color]) Diona
+([color=#002AAF]  [/color]) Moth               ([color=#002AAF]  [/color]) Other:    [color=#002AAF]Sample Species[/color]
+                                                  ‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾
+
+Physical Appearance:
+([color=#002AAF]  [/color]) Male      ([color=#002AAF]  [/color]) Female    ([color=#002AAF]  [/color]) Not Applicable/Neither
+
+Skin Tone:              [color=#002AAF]Sample Color[/color]
+                             ‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾
+Role:                        [color=#002AAF]Sample Job[/color]
+                             ‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾
+Cause of Death:    [color=#002AAF]Sample Cause[/color]
+                             ‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾
+Place of Death:    [color=#002AAF]Sample Place[/color]
+                             ‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾
+Time of Death:      [color=#002AAF]Sample Time[/color]
+                             ‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾
+Reason(s) cadaver is not revivable (select all that apply):
+\[[color=#002AAF]  [/color]] Rotted
+\[[color=#002AAF]  [/color]] Severely damaged (e.g. more than 500 damage)
+\[[color=#002AAF]  [/color]] Irreparably damaged (e.g. more than 200 poison)
+\[[color=#002AAF]  [/color]] Cremated
+\[[color=#002AAF]  [/color]] Gibbed
+\[[color=#002AAF]  [/color]] No cadaver
+\[[color=#002AAF]  [/color]] Soul departed
+\[[color=#002AAF]  [/color]] Legally prohibited (attach relevant documentation)
+\[[color=#002AAF]  [/color]] Unknown (not responding to revival attempts)
+\[[color=#002AAF]  [/color]] Other:     [color=#002AAF]Sample Reason[/color]
+                     ‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾
+Resting Place:
+([color=#002AAF]  [/color]) Morgue
+([color=#002AAF]  [/color]) Chapel
+([color=#002AAF]  [/color]) Unknown
+([color=#002AAF]  [/color]) Other:     [color=#002AAF]Sample Place[/color]
+                     ‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾

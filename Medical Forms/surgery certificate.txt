@@ -1,0 +1,37 @@
+[color=#52bde9]╔════════╗ █▄ █ ▀█▀  [head=2]Medical Department[/head]
+║░░░██░░░║ █ ▀█     █      [bold]Surgery Certificate[/bold]
+║░██████░║ 
+║░░░██░░░║ 
+╚════════╝
+[bold]────────────────────────────────────────[/bold][/color]
+
+This document certifies a surgery of an individual who either requested it for enhancements or for emergency health surgery.
+
+[bullet/]Leading Surgeon:      [color=#002AAF]Sample Name[/color]
+                                  ‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾
+[bullet/]Patients Name:          [color=#002AAF]Sample Name[/color]
+                                  ‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾
+[bold]Patients Species:
+[/bold]
+([color=#002AAF]  [/color]) Human           ([color=#002AAF]  [/color]) Lizard                   ([color=#002AAF]  [/color]) Slime
+([color=#002AAF]  [/color]) Dwarf             ([color=#002AAF]  [/color]) Arachnid              ([color=#002AAF]  [/color]) Diona
+([color=#002AAF]  [/color]) Moth               ([color=#002AAF]  [/color]) Other:    [color=#002AAF]Sample Species[/color]
+                                                  ‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾
+[bold]Physical Appearance:[/bold]
+([color=#002AAF]  [/color]) Male      ([color=#002AAF]  [/color]) Female    ([color=#002AAF]  [/color]) Not Applicable/Neither
+
+Skin Tone:              [color=#002AAF]Sample Color[/color]
+                             ‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾
+Role:                        [color=#002AAF]Sample Job[/color]
+                             ‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾
+[bold]Surgery Type:[/bold]
+([color=#002AAF]  [/color]) Emergency Health Surgery      ([color=#002AAF]  [/color]) Body enhancement 
+ 
+[bullet/]Operated limbs:    [color=#002AAF]Sample limbs[/color]
+                             ‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾
+[bullet/]Surgery Reason:    [color=#002AAF]Sample Reason[/color]
+                             ‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾
+[bullet/]Place of Surgery:    [color=#002AAF]Sample Place[/color]
+                             ‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾
+[bullet/]Time of Surgery:      [color=#002AAF]Sample Time[/color]
+                             ‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾
